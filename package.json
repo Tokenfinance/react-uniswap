@@ -1,0 +1,55 @@
+{
+  "name": "etherum",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.1.1",
+    "@material-ui/icons": "^4.2.0",
+    "apollo-boost": "^0.4.3",
+    "apollo-cache-inmemory": "^1.6.2",
+    "apollo-cache-persist": "^0.1.1",
+    "apollo-link-state": "^0.4.2",
+    "graphql": "^14.3.1",
+    "graphql-tag": "^2.10.1",
+    "prettier": "^1.18.2",
+    "react": "^16.8.6",
+    "react-apollo": "^2.5.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1",
+    "react-test-renderer": "^16.8.6",
+    "waait": "^1.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-jest": "^24.7.1",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.11.2",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^5.0.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.13.0"
+  }
+}

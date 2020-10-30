@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-transfer {
+  display: flex;
+  justify-content: flex-end;
+  width: 90%;
+}
